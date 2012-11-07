@@ -466,8 +466,7 @@ Chuck Norris does not teabag the ladies. He potato-sacks them.
 When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
 There are no steroids in baseball. Just players Chuck Norris has breathed on.
 Chuck Norris once challenged Lance Armstrong in a “Who has more testicles?” contest. Chuck Norris won by 5.
-Chuck Norris sheds his skin twice a year.
-";
+Chuck Norris sheds his skin twice a year.";
 
 	public function __construct() {
 		add_action( 'admin_notices', array( $this, 'show_fact' ) );
